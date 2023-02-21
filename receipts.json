@@ -49,7 +49,7 @@
       {
         "name" : "Консервированная фасоль",
         "weight" : 400,
-        "weightMeasureUnit" : "г"
+        "weightMeasureUnit" : "г."
       },
       {
         "name" : "Лимон",
@@ -69,17 +69,17 @@
       {
         "name" : "Рукола",
         "weight" : 100,
-        "weightMeasureUnit" : "г"
+        "weightMeasureUnit" : "г."
       },
       {
         "name" : "Творожный сыр",
         "weight" : 200,
-        "weightMeasureUnit" : "г"
+        "weightMeasureUnit" : "г."
       },
       {
         "name" : "Красный лук",
         "weight" : 50,
-        "weightMeasureUnit" : "г"
+        "weightMeasureUnit" : "г."
       }
     ],
     "steps": {
@@ -102,7 +102,7 @@
       {
         "name" : "Красная чечевица",
         "weight" : 150,
-        "weightMeasureUnit" : "г"
+        "weightMeasureUnit" : "г."
       },
       {
         "name" : "Репчатый лук",
@@ -122,12 +122,12 @@
       {
         "name" : "Сливочное масло",
         "weight" : 15,
-        "weightMeasureUnit" : "г"
+        "weightMeasureUnit" : "г."
       },
       {
         "name" : "Пшеничная мука",
         "weight" : 30,
-        "weightMeasureUnit" : "г"
+        "weightMeasureUnit" : "г."
       },
       {
         "name" : "Сливки 33%",
@@ -166,7 +166,7 @@
       {
         "name" : "Королевские креветки",
         "weight" : 300,
-        "weightMeasureUnit" : "г"
+        "weightMeasureUnit" : "г."
       },
       {
         "name" : "Зеленый салат",
